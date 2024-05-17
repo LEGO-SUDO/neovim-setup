@@ -5,6 +5,7 @@ vim.cmd("set shiftwidth=2")
 vim.g.mapleader = " " 
 vim.wo.number = true
 vim.wo.relativenumber = true
+vim.o.background = 'dark'
 
 
 

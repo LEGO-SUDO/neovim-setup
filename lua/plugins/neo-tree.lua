@@ -13,7 +13,7 @@ return {
       popup_border_style = "rounded",
       window = {
         position = "left",
-        width = 30,
+        width = 20,
       },
       filesystem = {
         filtered_items = {
